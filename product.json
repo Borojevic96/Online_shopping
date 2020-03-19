@@ -4,9 +4,9 @@
     "title": "Mouse",
     "img": "razer.png",
     "additional": [
-      "",
-      "",
-      ""
+      "razer.png",
+      "razer.png",
+      "razer.png"
     ],
     "price": 100,
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique massa tortor, a tempus mauris feugiat id. Donec nec nisl et mi malesuada varius eu nec lectus."
