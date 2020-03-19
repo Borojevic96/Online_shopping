@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Mouse",
+    "img": "razer.png",
+    "price": 100,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique massa tortor, a tempus mauris feugiat id. Donec nec nisl et mi malesuada varius eu nec lectus."
+  },
+  {
+    "id": 2,
+    "title": "Monitor",
+    "img": "monitor.png",
+    "price": 200,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique massa tortor, a tempus mauris feugiat id. Donec nec nisl et mi malesuada varius eu nec lectus."
+  },
+  {
+    "id": 3,
+    "title": "Laptop",
+    "img": "laptop.png",
+    "price": 300,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique massa tortor, a tempus mauris feugiat id. Donec nec nisl et mi malesuada varius eu nec lectus."
+  },
+  {
+    "id": 4,
+    "title": "Graphical Card",
+    "img": "razerblade.png",
+    "price": 400,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique massa tortor, a tempus mauris feugiat id. Donec nec nisl et mi malesuada varius eu nec lectus."
+  },
+  {
+    "id": 5,
+    "title": "Mouse",
+    "img": "razer.png",
+    "price": 100,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique massa tortor, a tempus mauris feugiat id. Donec nec nisl et mi malesuada varius eu nec lectus."
+  }
+]
