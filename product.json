@@ -5,8 +5,9 @@
     "img": "razer.png",
     "additional": [
       "razer.png",
-      "razer.png",
-      "razer.png"
+      "razerblade.png",
+      "monitor.png",
+      "laptop.png"
     ],
     "price": 100,
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique massa tortor, a tempus mauris feugiat id. Donec nec nisl et mi malesuada varius eu nec lectus."
@@ -16,9 +17,10 @@
     "title": "Monitor",
     "img": "monitor.png",
     "additional": [
-      "",
-      "",
-      ""
+      "razer.png",
+      "razerblade.png",
+      "monitor.png",
+      "laptop.png"
     ],
     "price": 200,
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique massa tortor, a tempus mauris feugiat id. Donec nec nisl et mi malesuada varius eu nec lectus."
@@ -28,9 +30,10 @@
     "title": "Laptop",
     "img": "laptop.png",
     "additional": [
-      "",
-      "",
-      ""
+      "razer.png",
+      "razerblade.png",
+      "monitor.png",
+      "laptop.png"
     ],
     "price": 300,
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique massa tortor, a tempus mauris feugiat id. Donec nec nisl et mi malesuada varius eu nec lectus."
@@ -40,23 +43,38 @@
     "title": "Graphical Card",
     "img": "razerblade.png",
     "additional": [
-      "",
-      "",
-      ""
+      "razer.png",
+      "razerblade.png",
+      "monitor.png",
+      "laptop.png"
     ],
     "price": 400,
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique massa tortor, a tempus mauris feugiat id. Donec nec nisl et mi malesuada varius eu nec lectus."
   },
   {
     "id": 5,
-    "title": "Mouse",
+    "title": "Wireless Mouse",
     "img": "razer.png",
     "additional": [
-      "",
-      "",
-      ""
+      "razer.png",
+      "razerblade.png",
+      "monitor.png",
+      "laptop.png"
     ],
-    "price": 100,
+    "price": 700,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique massa tortor, a tempus mauris feugiat id. Donec nec nisl et mi malesuada varius eu nec lectus."
+  },
+  {
+    "id": 6,
+    "title": "GTX Graphics Cards",
+    "img": "razerblade.png",
+    "additional": [
+      "razer.png",
+      "razerblade.png",
+      "monitor.png",
+      "laptop.png"
+    ],
+    "price": 500,
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique massa tortor, a tempus mauris feugiat id. Donec nec nisl et mi malesuada varius eu nec lectus."
   }
 ]
