@@ -76,5 +76,31 @@
     ],
     "price": 500,
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique massa tortor, a tempus mauris feugiat id. Donec nec nisl et mi malesuada varius eu nec lectus."
+  },
+  {
+    "id": 7,
+    "title": "Red Dragon Mouse",
+    "img": "razer.png",
+    "additional": [
+      "razer.png",
+      "razerblade.png",
+      "monitor.png",
+      "laptop.png"
+    ],
+    "price": 470,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique massa tortor, a tempus mauris feugiat id. Donec nec nisl et mi malesuada varius eu nec lectus."
+  },
+  {
+    "id": 8,
+    "title": "Dell Monitor",
+    "img": "monitor.png",
+    "additional": [
+      "razer.png",
+      "razerblade.png",
+      "monitor.png",
+      "laptop.png"
+    ],
+    "price": 300,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique massa tortor, a tempus mauris feugiat id. Donec nec nisl et mi malesuada varius eu nec lectus."
   }
 ]
