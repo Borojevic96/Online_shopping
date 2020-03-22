@@ -1,0 +1,236 @@
+@media screen and (max-width: 1366px) {
+    .container {
+        width: 80%;
+    }
+
+    #app .container .article-box .one_article .article-content {
+        font-size: 18px !important;
+    }
+
+    #app .container .article-box .one_article .article-content {
+        height: 320px;
+    }
+
+    .footer-box {
+        width: 80%;
+    }
+
+    #product_image {
+        max-width: 500px;
+    }
+
+    #card-content {
+        padding: 20px 0;
+    }
+
+    .box1 p {
+        margin-left: 75px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    #app .container .article-box .one_article .article-content {
+        flex-basis: 48%;
+        height: auto;
+    }
+
+    #one_product {
+        flex-direction: column-reverse;
+    }
+
+    #product_image {
+        max-width: 400px;
+    }
+
+    .item_image {
+        width: 100px;
+    }
+
+    .box1 p {
+        width: 150px;
+    }
+
+    .item_title {
+        font-size: 17px !important;
+    }
+
+    .priceId {
+        font-size: 20px;
+    }
+
+    #app .header-back {
+        height: 200px;
+    }
+
+    #app .header-back p {
+        margin-bottom: 0;
+    }
+
+    .box1 p {
+        margin-left: 50px;
+    }
+
+    .zakljuci {
+        text-decoration: none;
+        padding: 10px 20px;
+    }
+
+    #app .header-back p {
+        font-size: 34px;
+    }
+
+    #text_wrap {
+        flex-basis: 100%;
+    }
+
+    #image_wrap {
+        margin-top: 30px;
+        flex-basis: 100%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    #product_gallery {
+        width: 100%;
+    }
+
+    #product_gallery img {
+        width: 170px;
+    }
+
+    .priceId {
+        width: 100px !important;
+    }
+
+    .box1 .price {
+        width: 50px !important;
+    }
+
+    .box1 p {
+        width: 110px;
+    }
+
+    .ukupnaCijena {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .container {
+        width: 90%;
+    }
+
+    #app .container .article-box .one_article .article-content {
+        flex-basis: 100%;
+    }
+
+    .main_heading {
+        padding: 40px 0;
+    }
+
+    #app .container h3 {
+        font-size: 49px;
+    }
+
+    #product_gallery img {
+        width: 110px;
+    }
+
+    #app .header-back p:last-child {
+        font-size: 24px;
+        margin-top: 10px;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    #navigation-bar .logo img {
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    .navigation a {
+        font-size: 18px;
+    }
+
+    .navigation {
+        margin-right: 20px;
+    }
+
+    #app .container h3 {
+        font-size: 37px;
+    }
+
+    .container {
+        padding-top: 50px;
+    }
+
+    button, .zakljuci {
+        width: auto;
+        padding: 10px;
+    }
+
+    #text_wrap p {
+        font-size: 17px;
+        line-height: 19px;
+    }
+
+    .priceId {
+        margin: auto 20px;
+    }
+
+    #image_wrap img {
+        width: 320px;
+    }
+
+    #image_wrap {
+        margin-top: 0;
+    }
+
+    .slick-initialized .slick-slide {
+        display: flex !important;
+        justify-content: center;
+    }
+
+    #cart_wrapper {
+        justify-content: center;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .box1, .box2 {
+        justify-content: center;
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .item_image {
+        width: 170px;
+    }
+
+    .box1 p {
+        width: auto;
+        margin: 20px 0;
+    }
+
+    .item_title {
+        font-size: 25px !important;
+        line-height: 27px !important;
+    }
+
+    .box2 p {
+        margin: 0 0 20px 0 !important;
+    }
+
+    #buy_form {
+        width: 100% !important;
+        padding: 0;
+    }
+
+    #buy_form input {
+        width: 100%;
+    }
+
+    #buy_form button {
+        padding: 10px;
+    }
+}

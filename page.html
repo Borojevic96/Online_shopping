@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title id="title-bar"></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick-theme.min.css">
+
+</head>
+<body>
+<div id="app">
+    <div id="navigation-bar">
+        <div class="logo"><a href="index.html"><img src="img/logo.svg" alt="Logo"></a></div>
+        <div class="navigation">
+            <a href="index.html">Početna</a>
+            <a href="korpa.html">Korpa</a>
+        </div>
+    </div>
+    <div class="container">
+        <div class="header-back">
+            <p>Proizvodi</p>
+            <p id="proizvod"></p>
+        </div>
+        <div id="one_product">
+            <div id="image_wrap">
+                <div id="product_image" class="slider slider-for"></div>
+            </div>
+            <div id="text_wrap"></div>
+        </div>
+        <div id="gallery">
+            <div id="product_gallery" class="slider slider-nav"></div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="footer-box">
+            <p>Copyright | © 2020 onlineshopping.com</p>
+            <p>Made by <a href="https://www.linkedin.com/in/slavi%C5%A1a-borojevi%C4%87-1381a1161/" target="_blank">Borojevic
+                                                                                                                    S.</a>
+            </p>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.js"></script>
+<script src="js/main.js"></script>
+<script type="text/javascript">
+    let urlParams = new URLSearchParams(window.location.search);
+    let id = urlParams.get('id');
+    if (id) {
+        getProductId(id);
+    } else {
+        window.location.href = "index.html";
+    }
+</script>
+</body>
+</html>
